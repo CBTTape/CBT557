@@ -1,0 +1,9 @@
+2023-08-06 05:12:41.670655 - Initialized conversion of CBT557
+2023-08-06 05:12:41.719200 - Received CBT.V505.FILE557.PDS from FILE557.XMI 
+2023-08-06 05:12:41.721382 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE557.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:12:41.722366 - Found $$$NOTE.txt (text/plain) in CBT.V505.FILE557.PDS, moved to PDS/$$$NOTE
+2023-08-06 05:12:41.723391 - Found @FILE557.txt (text/plain) in CBT.V505.FILE557.PDS, moved to PDS/@FILE557
+2023-08-06 05:12:41.724303 - Found CLCCSNDX.txt (text/plain) in CBT.V505.FILE557.PDS, moved to PDS/CLCCSNDX
+2023-08-06 05:12:41.725244 - Found SDXMAINP.txt (text/plain) in CBT.V505.FILE557.PDS, moved to PDS/SDXMAINP
+2023-08-06 05:12:41.726096 - Found SOUNDEX.rexx (text/plain) in CBT.V505.FILE557.PDS, moved to PDS/SOUNDEX
+2023-08-06 05:12:41.727062 - Found VIEWUP03.txt (text/plain) in CBT.V505.FILE557.PDS, moved to PDS/VIEWUP03
